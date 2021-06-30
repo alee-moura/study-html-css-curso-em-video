@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ale-mouraboni/study-html-css-curso-em-video">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/ale-mouraboni/study-html-css-curso-em-video">
+  <img alt="Github" src="https://img.shields.io/github/license/ale-mouraboni/study-html-css-curso-em-video">
 </p>
 
 ---
